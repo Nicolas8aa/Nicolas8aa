@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nicolas8aa
-- 👀 I’m interested in coding, python, javascript, mobile development with java, and much more
-- 🌱 I’m currently learning java and python
-- 📫 How to reach me via email to nicolascuellar2003@outlook.com
+- 🌱 I’m currently learning nodejs and matering react :)
+- 📫 How to reach me via email to nicolascuellar2305@gmail.com
 
 <!---
 Nicolas8aa/Nicolas8aa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
