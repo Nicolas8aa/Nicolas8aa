@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicolas8aa
-- 🌱 I’m currently learning nodejs and matering react :)
+- 🌱 I’m currently learning nodejs and mastering react :)
 - 📫 How to reach me via email to nicolascuellar2305@gmail.com
 
 <!---
