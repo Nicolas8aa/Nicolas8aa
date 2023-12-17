@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicolas8aa, Fullstack MERN developer
+- 👋 Hi, I’m @Nicolas8aa, Fullstack Javascript developer
 - 📫 How to reach me via email to jobs@nicolascuellar.com
 
 <!---
