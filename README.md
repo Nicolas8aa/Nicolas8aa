@@ -8,6 +8,11 @@ Full‑stack JavaScript developer based in Colombia. I build practical software 
 - 🧪 Shipping useful tools and learning fast
 - ⚙️ Bridging software with the physical world
 
+**Professional Activity**
+
+- 💼 Technical Lead at SKYRICHCLUB (remote Australia) — shipping features and hardening resilience/security (CI/CD, testing, OAuth flows, payment providers). Since July 2025.
+- 📈 RISK ANALYTICS — full-time through July 2025, now occasional feature work.
+
 **Open‑Source Projects**
 
 - 🪺 [counting-eggs-cv](https://github.com/Nicolas8aa/counting-eggs-cv) — Computer vision to count eggs in baskets (HSV/LAB color spaces).
@@ -26,5 +31,6 @@ Full‑stack JavaScript developer based in Colombia. I build practical software 
 
 **Connect**
 
+- ✍️ Blog: https://blog.nicolascuellar.com
 - 📫 Email: webdev.nicolas.cuellar@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/nicolas-cuellar-ochoa/
