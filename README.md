@@ -21,7 +21,6 @@ Full‑stack JavaScript developer based in Colombia. I build practical software 
 - 🧭 [can-position-temp-system](https://github.com/Nicolas8aa/can-position-temp-system) — ESP32 CAN bus control + temperature monitoring system.
 - 🔐 [nextjs-shadcn-next-auth](https://github.com/Nicolas8aa/nextjs-shadcn-next-auth) — Next.js starter with Auth.js, Prisma, Zod, and server actions.
 - 📎 [clip-sync](https://github.com/Nicolas8aa/clip-sync) — Simple clipboard sync over SSH for Linux/X11.
-- 🧩 [portfolio-react](https://github.com/Nicolas8aa/portfolio-react) — Portfolio app from an advanced React course.
 
 **What I'm Doing Now**
 
