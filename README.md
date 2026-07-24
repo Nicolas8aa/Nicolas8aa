@@ -11,7 +11,7 @@ Full‑stack JavaScript developer based in Colombia. I build practical software 
 **Professional Activity**
 
 - 💼 Technical Lead at SKYRICHCLUB (remote Australia) — shipping features and hardening resilience/security (CI/CD, testing, OAuth flows, payment providers). Since July 2025.
-- 📈 RISK ANALYTICS — full-time through July 2025, now occasional feature work.
+- 📈 TRANSFORMIT SAS — building projects in partnership with companies.
 
 **Open‑Source Projects**
 
